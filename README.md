@@ -1,0 +1,4 @@
+optimizasyon
+============
+
+minMaliyetler Yöntemi
